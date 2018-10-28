@@ -1,0 +1,242 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.logo {
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 3px 2px white;
+  font-style: italic;
+}
+
+.logo2 {
+  position: relative;
+  color: black;
+  font-family: initial;
+  font-size: 0.6em;
+  left: -9px;
+}
+
+.publicidad {
+  color: publicidad;
+  font-size: 0.7em;
+  color: black;
+  font-weight: bold;
+}
+
+h5 {
+  text-align: justify;
+}
+
+table,
+th,
+td {
+  text-align: center;
+  border: 1px solid black;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+th {
+  background-color: gray;
+}
+
+.tabla {
+  position: relative;
+  left: 15%;
+  width: 70%;
+}
+
+.section {
+  background-color: white;
+}
+
+.tabla-courses,
+.tr1,
+.tr3,
+.tr5,
+.tr7,
+.tr9,
+.tr11 {
+  background-color: white;
+}
+
+.tr1:hover,
+.tr2:hover,
+.tr3:hover,
+.tr4:hover,
+.tr5:hover,
+.tr6:hover,
+.tr7:hover,
+.tr8:hover,
+.tr9:hover,
+.tr10:hover,
+.tr11:hover {
+  background-color: yellow;
+  border-radius: 5px;
+}
+
+#td1:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td2:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td3:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td4:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td5:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td6:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td7:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td8:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td9:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#td10:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+  animation-name: showhint;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes showhint {
+  from {
+    color: white;
+    opacity: 0.1;
+  }
+  to {
+    color: black;
+    opacity: 1.0;
+  }
+}
+
+.card {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  box-shadow: 3px 2px 3px gray;
+}
+
+.card-content {
+  background-color: black;
+  color: white;
+}
+
+p {
+  text-align: justify;
+}
+
+.contact,
+  {
+  background: whitesmoke;
+}
+
+.about-info .bio-image {
+  grid-area: bioimage;
+  margin: auto;
+  border-radius: 50%;
+  border: #eece1a 3px solid;
+}
+
+.background {
+  background-color: teal;
+  padding: 0px;
+  height: 180px;
+  box-shadow: 3px 2px 3px gray;
+  margin-right: 3px;
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+}
+
+.pic-mobil {
+  float: left;
+  border-radius: 0%;
+}
+
+.pic-name {
+  color: white;
+}
